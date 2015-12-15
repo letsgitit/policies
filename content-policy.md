@@ -16,7 +16,7 @@ A crap post is one that does not genuinely add value to the community. Keep in m
 
 When having discussions, remember to respect each other and take the opinion of the other side  into account instead of name-calling or insulting the other person. It is okay to be offended, but it is not okay to be purposefully offensive.  We give everybody the same level of respect.
 
-If a post doesn’t follow the rules, an admin will lock it. If an admin judges your repeated behavior to be intentionally against the rules, you may be banned. We’ll delete posts that break Facebook’s guidelines. See the Administration Policy document for more details.
+If a post doesn’t follow the rules, an admin will lock it. After three locked posts, an admin will warn you. After a fourth, you will be banned. We’ll delete posts that break Facebook’s guidelines. See the Administration Policy document for more details.
 
 ## What makes a post great for HX?
 
@@ -28,6 +28,7 @@ Note that just because a post is good, doesn’t mean a thread is good. If a thr
 - "Who’s going to PennApps?" or "Anyone going to the Thiel Summit in SF?"
 
 Please be sure to do a search before doing these types of posts.
+Please do not spam hackers for personal financial benefit.
 
 ### Discussions on technologies, tools, or hacker culture
 
@@ -80,6 +81,23 @@ Don’t post something that is readily available online. HX is not a tech suppor
 - "How do I use GitHub Pages?"
 - "Can anyone help me with some JavaScript errors I’m getting? Thanks!"
 - "Haas anyone used the Twitter API before? IM me!"
+
+### Flame War
+
+Google defines "flame war" as "an argument between Internet users who repeatedly provoke each other with personal attacks.".
+What seperates a "flame war" from a troll post or a heated discussion is the presence of a personal attack.
+Two or more admins must explicity declare a thread a flame war in order to make such a determination. 
+The instigator of the flame war shall recieve the most punishment, however the team of admins will collectively decide if anyone else deserves punishment and the magnitude of that punishment.
+Those punished will have an opportunity to appeal.
+Threads that turn into flame wars.
+
+### Appeals process
+
+There will be two types of appeals: public appeals and private appeals. 
+A Public appeal can occur when ten percent of the group or twenty percent of the admin team demands it so. Public appeals will occur in the group space and the outcome will be determined by a simple majority vote.
+
+A private appeal can occur when a single person or group of people feel unsafe by a specific post, person, or policy. Private appeals can also occur when a single person or group wants to dispute a ban or punishment. Private appeals will be held in front of the admins. And the results of the appeal will be determined by a majjority vote..
+In the case of a conflict of interest (i.e an admin appeals) private appeals will be heard by third party mediaters. 
 
 ### Don’t forget about the search bar.
 
